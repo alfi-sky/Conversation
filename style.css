@@ -3,10 +3,12 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .tanya{
-    background-color: aquamarine;
+    background-color: #94fbab;
     padding: 20px;
+    border-radius: 5px;
 }
 .jawab{
-    background-color:darksalmon;
+    background-color:#90d7ff;
+    border-radius: 5px;
     padding: 20px;
 }
