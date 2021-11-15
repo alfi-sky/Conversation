@@ -1,3 +1,12 @@
 * {
     margin: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tanya{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.jawab{
+    background-color:darksalmon;
+    padding: 20px;
 }
