@@ -2,6 +2,12 @@
     margin: 20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+header{
+    color: #160f29;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
 .tanya{
     background-color: #94fbab;
     padding: 20px;
