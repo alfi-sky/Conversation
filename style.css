@@ -28,4 +28,9 @@ a.stabilo{
     border-radius: 5px;
     margin: 2px;
 }
+a{
+    color: #ffff;
+    text-decoration: none;
+    font-weight: bolder;
+}
 
