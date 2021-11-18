@@ -18,11 +18,13 @@ header{
     border-radius: 5px;
     padding: 20px;
 }
-p{
-    background-color: #230c0f;
+div div a{
+    background-color: rgba(34, 12, 15, 0.8);
     display: inline;
     color: #ffff;
     padding: 10px;
     font-style: normal;
     border-radius: 5px;
+    margin: 2px;
 }
+
