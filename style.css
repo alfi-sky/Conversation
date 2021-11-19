@@ -33,4 +33,14 @@ a{
     text-decoration: none;
     font-weight: bolder;
 }
-
+a.halaman{
+    background-color: #f58a07;
+    color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+.parent-halaman{
+    display: flex;
+    justify-content: center;
+}
