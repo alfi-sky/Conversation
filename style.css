@@ -44,3 +44,6 @@ a.halaman{
     display: flex;
     justify-content: center;
 }
+footer a{
+    color: black;
+}
