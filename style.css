@@ -39,6 +39,12 @@ a.halaman{
     padding: 30px;
     border-radius: 5px;
     text-align: center;
+    transition: background-color 1s, transform 1s, color 1s;
+}
+a.halaman:hover{
+    background-color: #ffcb47;
+    transform: rotate(-5deg);
+    color: #000;
 }
 .parent-halaman{
     display: flex;
