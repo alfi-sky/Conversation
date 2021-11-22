@@ -3,11 +3,17 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 header{
-    color: #160f29;
+    color: #fff;
     text-align: center;
     font-size: 30px;
     font-style: italic;
+    background-color: #230c0f;
+    border-radius: 5px;
+    width:500px;
+    padding: 20px;
+    perspective-origin: 500px;
 }
+
 .tanya{
     background-color: #94fbab;
     padding: 20px;
@@ -49,6 +55,9 @@ a.halaman:hover{
 .parent-halaman{
     display: flex;
     justify-content: center;
+    perspective-origin: 200;
+    background-color: bisque;
+    border-radius: 5px;
 }
 footer a{
     color: black;
