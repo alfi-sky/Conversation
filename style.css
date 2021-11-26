@@ -18,15 +18,18 @@ header{
 }
 
 .tanya{
-    background-color: #94fbab;
+    background-color: #FFCB47;
+    color: #000;
     padding: 20px;
     border-radius: 5px;
+    text-align: justify;
 }
 .jawab{
-    background-color:#157145;
+    background-color:#230c0f;
     color: #ffff;
     border-radius: 5px;
     padding: 20px;
+    text-align: justify;
 }
 a.stabilo{
     background-color: rgba(34, 12, 15, 0.8);
