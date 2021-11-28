@@ -1,71 +1,52 @@
 * {
     margin: 20px;
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #000;
+    text-decoration: none;
 }
 header{
     display: flex;
     justify-content: center;
 }
 .header{
-    color: #230c0f;
+    color: #157145;
     text-align: center;
     font-size: 50px;
     border-radius: 5px;
     width:500px;
     padding: 20px;
 }
-
-.tanya{
-    background-color: #157145;
-    color: #fff;
+div.tanyajawab div{
     padding: 20px;
     border-radius: 5px;
     text-align: justify;
+    font-size: 20px;
 }
-.jawab{
-    background-color:#94fbab;
-    color: #000;
-    border-radius: 5px;
-    padding: 20px;
-    text-align: justify;
+div.tanyajawab div.jawab{
+    background-color: #94fbab;
 }
-a.stabilo{
-    background-color: rgba(34, 12, 15, 0.8);
-    display: inline;
-    color: #ffff;
-    padding: 10px;
-    font-style: normal;
-    border-radius: 5px;
-    margin: 2px;
-}
-a{
-    color: #ffff;
-    text-decoration: none;
-}
-a.link{
+div.jawab a{
     margin: 0px;
+    color: #230c0f;
 }
-a.halaman{
-    color: #000;
-    padding: 30px;
-    border-radius: 20px;
-    text-align: center;
-    transition: background-color 1s, transform 0.5s, color 0.1s;
-    font-size: 30px;
-}
-a.halaman:hover{
+a.topik:hover{
     background-color: #157145;
     transform: rotate(-5deg);
     color: #fff;
 }
-.parent-halaman{
+.daftartopik{
     display: flex;
     justify-content: center;
     perspective-origin: 200;
     border-radius: 5px;
 }
-footer a{
-    color: black;
+div.daftartopik a{
+    color: #157145;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    transition: background-color 1s, transform 0.5s, color 0.1s;
+    font-size: 30px;
 }
 footer{
     display: flex;
