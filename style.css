@@ -67,3 +67,7 @@ a.halaman:hover{
 footer a{
     color: black;
 }
+footer{
+    display: flex;
+    justify-content: center;
+}
