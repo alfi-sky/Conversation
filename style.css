@@ -1,10 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,900);
-* {
+*:not(div.serambi) {
     margin: 20px;
-    font-family: ;
     color: #000;
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
+}
+.serambi{
+    position: fixed;
+    right: 0px; /*PERLU DIREVISI*/
+    vertical-align: center;
+}
+div.serambi a img{
+    transition: width 0.5s;
+}
+div.serambi a img:hover{
+    width:70px;
 }
 /* div::first-letter{
     
