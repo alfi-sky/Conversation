@@ -5,6 +5,11 @@
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
 }
+div.background img{
+    position: fixed;
+    height: 550px;
+    z-index: -1;
+}
 .serambi{
     position: fixed;
     right: 0px; /*PERLU DIREVISI*/
@@ -24,12 +29,14 @@ header{
     justify-content: center;
 }
 .header{
-    color: #157145;
     text-align: center;
     font-size: 50px;
     border-radius: 5px;
     width:500px;
     padding: 20px;
+}
+header div.header{
+    color: #157145;
 }
 div.tanyajawab div{
     padding: 20px;
