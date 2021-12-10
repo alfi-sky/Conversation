@@ -69,6 +69,7 @@ div.daftartopik a{
     text-align: center;
     transition: background-color 1s, transform 0.5s, color 0.1s;
     font-size: 30px;
+    box-shadow: 5px 5px #94fbab;
 }
 footer{
     display: flex;
