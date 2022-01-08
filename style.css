@@ -1,9 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,900);
 *{
     margin: 20px;
     color: #000;
     text-decoration: none;
-    font-family: 'Raleway', sans-serif;
 }
 div.background img{
     position: fixed;
